@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(235, 234, 234);
+}
+
+/*
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+*/
+
+body>header {
+    background-color: rgb(19, 19, 19);
+    color:#eaf0e1;
+    margin-top: 0px;
+    font-family: 'Varela Round', sans-serif;
+}
+
+body>header>div{
+    display :inline-block;
+}
+
+/*header>img {
+    float: left;
+}*/
+
+aside{
+    position: absolute;
+    top:200px;
+    width: 200px;
+    right: 10px;
+    z-index: 2;
+    background-color: white;
+    border: 1px solid grey;;
+    border-radius: 15px;
+    padding: 1em;
+}
+.image-container {
+    width:50%; /* Ajusta el ancho según tus necesidades */
+  }
+  
+  .image-container img {
+    float: left; /* Coloca las imágenes a la izquierda */
+    width: 50%; /* Ajusta el ancho según tus necesidades */
+  }
