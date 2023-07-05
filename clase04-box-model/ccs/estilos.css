@@ -61,7 +61,7 @@ aside{
     z-index: 2;
     background-color: rgb(43, 39, 39);
     border: 1px solid  rgb(0, 0, 0);;
-    border-radius: 15px;
+    border-radius: 20px;
     padding: 1em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
@@ -74,4 +74,8 @@ article {
     color: rgb(0, 0, 0);
     padding: 1em;
     font-size: medium;
+    text-align: left;
+}
+button{
+    background-color: rgb(202, 190, 226);
 }
