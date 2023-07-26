@@ -98,15 +98,8 @@ aside{
     font-size: medium;
     color: white;
 }
-article{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-article {
-    color: rgb(0, 0, 0);
-    padding: 1em;
-    font-size: medium;
-    text-align: left;
-}
+
+
 button{
     background-color: rgb(202, 190, 226);
 }
